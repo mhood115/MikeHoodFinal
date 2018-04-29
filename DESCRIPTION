@@ -1,0 +1,9 @@
+Package: MikeHoodFinal
+Title: Performs Basic Mathematical Functions
+Version: 0.0.0.9000
+Authors@R: Mike, Hood
+Description: Will take a number and perform some basic mathematical operations.
+Depends: R (>= 3.4.1)
+License: MIT
+Encoding: GRB
+LazyData: true
